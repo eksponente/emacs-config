@@ -1,0 +1,30 @@
+;; -*- emacs-lisp -*- <18/08/13 15:39:27 /home/rugile/.emacs.d/tramp>
+;; Tramp connection history.  Don't change this file.
+;; You can delete it, forcing Tramp to reapply the checks.
+
+((["scp" nil "experiments" nil nil]
+  ("uname" "Linux 3.10.0-862.3.2.el7.x86_64")
+  ("locale" "LC_ALL=en_US.utf8")
+  ("test" "test")
+  ("remote-path"
+   ("/usr/bin" "/bin" "/sbin" "/usr/sbin" "/usr/local/bin" "/usr/local/sbin"))
+  ("remote-shell" "/bin/sh")
+  ("file-exists" "test -e")
+  ("ls" "/usr/bin/ls --color=never")
+  ("ls-dired" t)
+  ("stat" nil)
+  ("perl-file-spec" t)
+  ("perl-cwd-realpath" t)
+  ("perl" "\\perl")
+  ("id" "/usr/bin/id")
+  ("gid-integer" 1933000170)
+  ("readlink" "\\readlink")
+  ("gid-string" "rugile.pevceviciute")
+  ("git" "\\git")
+  ("uid-integer" 1933000170)
+  ("tmpdir" "/tmp")
+  ("touch-t" t)
+  ("touch" "\\touch")
+  ("~" "/home/rugile.pevceviciute")
+  ("bzr" nil)
+  ("hg" nil)))
